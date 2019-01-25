@@ -1864,7 +1864,7 @@ a {
     z-index: -1;
     text-align: right;
     position: absolute;
-    left: 700px; }
+    left: 500px; }
   .service::before {
     color: #000;
     content: attr(data-bg-text);
